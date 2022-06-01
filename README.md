@@ -12,3 +12,13 @@
 
 6. git commit -m "aopa"= comentar oque foi alterado
 
+## --------------------------------------------------------
+
+
+1. git status= verificar modificações
+
+2. git add . = para salvar todos os arquivos modificados
+
+3. git commit -m "att"= comentar oque foi alterado
+
+4. git commit -m "aopa"= comentar oque foi alterado
