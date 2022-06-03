@@ -23,3 +23,11 @@
 3. git commit -m "att"= comentar oque foi alterado
 
 4. git commit -m "aopa"= comentar oque foi alterado
+
+## --------------------------------------------------------
+
+# Documentação (exercicio 3)
+
+1. git add . = para salvar todos os arquivos modificados
+2. $ git commit -m "alteração do arquivo readme 3 " = comentar oque foi alterado
+3. git push = enviar alterações para o repositorio
